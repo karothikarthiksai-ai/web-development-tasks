@@ -253,18 +253,3 @@ The three projects demonstrate different uses of front-end web development.
 - **WILDPEAK:** Adventure and trekking information.
 - **VOLTEX '26:** College event communication.
 
-By completing these projects, students practise HTML page structure, CSS styling, responsive layouts, navigation, cards, and forms.
-
----
-
-## ⚠️ Important Notes
-
-- Add actual website screenshots to the `screenshots` folder.
-- Update your name, class, section, college, and academic year if required.
-- Replace sample content with verified details.
-- The VOLTEX '26 registration form is only a front-end demonstration unless connected to a backend or form service.
-- Do not claim that information is stored or processed unless that functionality has been implemented.
-
----
-
-**Developed with ❤️ using HTML5 and CSS3.**
